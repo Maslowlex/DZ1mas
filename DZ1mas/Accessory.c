@@ -1,10 +1,24 @@
-#include <locale.h>
 #include <stdio.h>
+#include <locale.h>
+
 void main()
 {
-	setlocale(LC_ALL, "RUS");
-	printf("          __   __   __   __ \n");
-	printf("  /|  /| |  | |__   __| |__  \n");
-	printf("   |   | |__|  __| |__  |__|    \n");
-	return 0;
+    setlocale(LC_ALL, "RUS");
+
+    puts("       O");
+    puts("       |");
+    puts("       |");
+    puts("       |");
+    puts("      / \\");
+    puts("     /   \\");
+    puts("    /     \\");
+    puts("   /       \\");
+    puts("  /         \\");
+    puts("  \\         /");
+    puts("   \\       /");
+    puts("    \\     /");
+    puts("     \\   /");
+    puts("      \\ /");
+    puts("       V");
+
 }
