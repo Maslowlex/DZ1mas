@@ -1,4 +1,4 @@
-#include <stdio.h>
+п»ї#include <stdio.h>
 #include <locale.h>
 
 void main()
@@ -25,5 +25,5 @@ void main()
     puts("                           | |    ");
     puts("                           |_|      ");
     puts("                                    ");
-    puts("Выполнил Маслов Александр БИЦТ-262 ");
+    puts("Р’С‹РїРѕР»РЅРёР» РњР°СЃР»РѕРІ РђР»РµРєСЃР°РЅРґСЂ Р‘РР¦Рў-262 ");
 }
